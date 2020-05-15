@@ -5,7 +5,7 @@ author: sshsky
 author_title: PM @ Free
 author_url: https://github.com/sshsky
 author_image_url: https://avatars0.githubusercontent.com/u/2088591?s=460&v=4
-tags: [gjangogirls, python]
+tags: [djangogirls, python]
 ---
 
 ### 1.安装开发环境
