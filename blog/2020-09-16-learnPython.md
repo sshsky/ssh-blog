@@ -1,6 +1,6 @@
 ---
 id: learnPython
-title: 也许你并不应该这么提问
+title: Python 从入门到精通：一个月就够了!
 author: sshsky
 author_title: PM @ 失业
 author_url: https://github.com/sshsky
@@ -10,9 +10,6 @@ tags: [Python, 快速上手]
 
 How-To-learn-Python-In-One-Month
 <!--truncate-->
-
-# Python 从入门到精通：一个月就够了！
-
 
 > 要知道，一个月是一段很长的时间。如果每天坚持用 6-7 小时来做一件事，你会有意想不到的收获。
 
