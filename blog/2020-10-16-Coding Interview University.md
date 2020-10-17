@@ -2,7 +2,7 @@
 id: CodingInterView
 title: [译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
 author: sshsky
-author_title: PM @ 失业
+author_title: PM @ Free
 author_url: https://github.com/sshsky
 author_image_url: https://avatars0.githubusercontent.com/u/2088591?s=460&v=4
 tags: [Python, 快速上手]
